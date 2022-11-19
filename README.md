@@ -12,6 +12,11 @@ Team Member 2 : Jayaprasana.T(720919104017)
 
 Team Member 3: Rangaraj.P(720919104028)
 
+PROJECT DOCUMENTATION LINK : https://drive.google.com/drive/folders/1U-1BPKacmM1O9eVlfpXLbdSEX_9AeZ6b?usp=share_link
+
+YOUTUBE LINK : https://www.youtube.com/watch?v=zUvszX69JRs
+
+GITHUB LINK :  https://github.com/IBM-EPBL/IBM-Project-37350-1660305426
 
 **Estimate the Crop Yield using Data Analytics**
 ![alt text](https://miro.medium.com/max/1200/1*8um0T77T3-57EUTIGRyC5Q.png)
